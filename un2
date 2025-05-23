@@ -7,5 +7,7 @@ struct un2
 int main(int argc, char const *argv[])
 {
     /* code */
+    un2 u2;
+    u2.a = 10;
     return 0;
 }
