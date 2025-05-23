@@ -1,0 +1,11 @@
+struct un2
+{
+    /* data */
+    int a;
+};
+
+int main(int argc, char const *argv[])
+{
+    /* code */
+    return 0;
+}
